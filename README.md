@@ -14,11 +14,6 @@ If you use this code, please cite the following works:
 > Metasurface-Based Holographic MIMO Systems," accepted at *IEEE VTC 2026 Spring*.
 > Preprint: https://arxiv.org/abs/2606.22465
 
-**Initial study version:**
-
-> "Study of Code-Aided Channel Estimation for Metasurface-Based Holographic MIMO
-> Systems," available at https://arxiv.org/abs/2606.22465
-
 **Original iterative framework this work builds upon:**
 
 > R. C. G. Porto and R. C. de Lamare, "Iterative Joint Channel Estimation and
@@ -127,4 +122,4 @@ camara@ime.eb.br / camara2k@gmail.com
 
 ## License
 
-MIT License (or specify your preferred license here before publishing).
+MIT License.
